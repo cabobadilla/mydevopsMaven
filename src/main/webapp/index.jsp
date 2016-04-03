@@ -9,6 +9,6 @@
  <body>
 <h1> MAYUSCULAS EN  <%= com.mydevops.jsp.Utils.makeItLower("MINUSCULAS") %> </h1>
 
-<h1> Sumando 45 + 4 = <%= com.mydevops.jsp.Utils.sumTwo(45, 4) %> </h1>
+<h1> Sumando 45 + 6 = <%= com.mydevops.jsp.Utils.sumTwo(45, 6) %> </h1>
 </body>
 </html>
