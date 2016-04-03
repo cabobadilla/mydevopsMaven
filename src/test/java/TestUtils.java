@@ -17,7 +17,7 @@ public class TestUtils {
 	public void testsumTwo() {
 		int result = Utils.sumTwo(3, 4);
 
-		assertEquals(7, result);
+		assertEquals(6, result);
 	}
 
 }
