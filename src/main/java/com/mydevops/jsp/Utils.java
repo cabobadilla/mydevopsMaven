@@ -6,7 +6,7 @@ public class Utils {
 	     }
 	     
 	     public static int sumTwo(int a, int b) {
-	 		return a + b;
+	 		return a + b + 1;
 	 	}
 	     	
 }
